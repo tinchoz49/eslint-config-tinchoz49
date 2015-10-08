@@ -20,7 +20,7 @@
     "url": "https://github.com/tinchoz49/eslint-config-tinchoz49/issues"
   },
   "homepage": "https://github.com/tinchoz49/eslint-config-tinchoz49#readme",
-  "devDependencies": {
+  "dependencies": {
     "babel-eslint": "^4.1.3",
     "eslint": "^1.6.0",
     "eslint-config-airbnb": "^0.1.0",
