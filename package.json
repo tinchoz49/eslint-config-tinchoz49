@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tinchoz49",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal eslint config based on the airbnb eslint config and merged with some Douglas Crockford thoughts.",
   "main": "index.js",
   "scripts": {
