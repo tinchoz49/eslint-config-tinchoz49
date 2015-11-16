@@ -1,3 +1,11 @@
+<a name="1.1.0"></a>
+# 1.1.0 (2015-11-16)
+
+
+* remove max len 80, add experimentalObjectRestSpread ecmaFeatures ([b122fdd](https://github.com/tinchoz49/eslint-config-tinchoz49/commit/b122fdd))
+
+
+
 <a name="1.0.4"></a>
 ## 1.0.4 (2015-11-07)
 
