@@ -3,9 +3,12 @@ module.exports = {
 
     globals: {},
 
+    ecmaFeatures: {
+        experimentalObjectRestSpread: true
+    },
+
     rules: {
         strict: 0,
-        'max-len': [2, 80, 4],
         indent: [2, 4],
         semi: [2, 'always'],
         'space-before-function-paren': [
