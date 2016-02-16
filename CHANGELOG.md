@@ -1,3 +1,11 @@
+<a name="2.0.0"></a>
+# 2.0.0 (2016-02-16)
+
+
+* use eslint-config-postcss ([cd079af](https://github.com/tinchoz49/eslint-config-tinchoz49/commit/cd079af))
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2015-11-16)
 
