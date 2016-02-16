@@ -1,3 +1,11 @@
+<a name="2.0.1"></a>
+## 2.0.1 (2016-02-16)
+
+
+* fix eslint extends ([3735a0c](https://github.com/tinchoz49/eslint-config-tinchoz49/commit/3735a0c))
+
+
+
 <a name="2.0.0"></a>
 # 2.0.0 (2016-02-16)
 
