@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "version": "node_modules/.bin/conventional-changelog -i CHANGELOG.md --same-file && git add CHANGELOG.md"
+    "version": "conventional-changelog -i CHANGELOG.md --same-file && git add CHANGELOG.md"
   },
   "repository": {
     "type": "git",
