@@ -1,3 +1,10 @@
+<a name="2.0.4"></a>
+## 2.0.4 (2016-04-06)
+
+* fix eslint ([53fc691](https://github.com/tinchoz49/eslint-config-tinchoz49/commit/53fc691))
+
+
+
 <a name="2.0.3"></a>
 ## 2.0.3 (2016-04-06)
 
