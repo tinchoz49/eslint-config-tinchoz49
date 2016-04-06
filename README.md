@@ -1,4 +1,5 @@
 # eslint-config-tinchoz49
+[![Build Status](https://travis-ci.org/tinchoz49/eslint-config-tinchoz49.svg?branch=master)](https://travis-ci.org/tinchoz49/eslint-config-tinchoz49)
 > **Personal** eslint config based on **eslint-config-postcss**.
 
 Sections |
