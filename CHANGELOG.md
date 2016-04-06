@@ -1,3 +1,10 @@
+<a name="2.1.0"></a>
+# 2.1.0 (2016-04-06)
+
+* add support for experimentalObjectRestSpread ([5ed0fa0](https://github.com/tinchoz49/eslint-config-tinchoz49/commit/5ed0fa0))
+
+
+
 <a name="2.0.4"></a>
 ## 2.0.4 (2016-04-06)
 
