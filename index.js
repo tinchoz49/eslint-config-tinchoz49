@@ -3,8 +3,10 @@ module.exports = {
 
     globals: {},
 
-    ecmaFeatures: {
-        experimentalObjectRestSpread: true
+    parserOptions: {
+        ecmaFeatures: {
+            experimentalObjectRestSpread: true
+        }
     },
 
     rules: {}
