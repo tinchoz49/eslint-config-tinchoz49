@@ -1,3 +1,11 @@
+<a name="2.0.3"></a>
+## 2.0.3 (2016-04-06)
+
+* eslint regression ([28e391b](https://github.com/tinchoz49/eslint-config-tinchoz49/commit/28e391b))
+* run travis ([30c086b](https://github.com/tinchoz49/eslint-config-tinchoz49/commit/30c086b))
+
+
+
 <a name="2.0.2"></a>
 ## 2.0.2 (2016-04-06)
 
