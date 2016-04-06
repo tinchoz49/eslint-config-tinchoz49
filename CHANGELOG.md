@@ -1,3 +1,13 @@
+<a name="2.0.2"></a>
+## 2.0.2 (2016-04-06)
+
+* add travis ([3f1ea19](https://github.com/tinchoz49/eslint-config-tinchoz49/commit/3f1ea19))
+* minor change ([41470d0](https://github.com/tinchoz49/eslint-config-tinchoz49/commit/41470d0))
+* chore(package): update eslint to version 2.5.1 ([59d8a22](https://github.com/tinchoz49/eslint-config-tinchoz49/commit/59d8a22))
+* chore(package): update eslint to version 2.5.2 ([d8f30d3](https://github.com/tinchoz49/eslint-config-tinchoz49/commit/d8f30d3))
+
+
+
 <a name="2.0.1"></a>
 ## 2.0.1 (2016-02-16)
 
